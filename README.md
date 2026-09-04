@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/app-icon.png" width="144" alt="AviTrail app icon">
 
-  # AviTrail: Bird Identifier
+  # Bird Identifier: AviTrail
 
   **Identify birds by photo or sound, build your private field collection, and climb local leagues.**
 
@@ -38,7 +38,7 @@ Nature should be shared responsibly. AviTrail gives you control over whether a l
 
 ## Türkçe
 
-AviTrail; kuşları fotoğraf veya sesle tanımanıza, gözlemlerinizi özel koleksiyon kartları olarak saklamanıza ve yerel liglerde ilerlemenize yardımcı olan bir iPhone uygulamasıdır. Konum gizliliği, EXIF temizleme ve hassas tür koruması sayesinde doğa gözlemlerinizi daha güvenli biçimde kaydedebilirsiniz.
+Kuş Tanıma: AviTrail; kuşları fotoğraf veya sesle tanımanıza, gözlemlerinizi özel koleksiyon kartları olarak saklamanıza ve yerel liglerde ilerlemenize yardımcı olan bir iPhone uygulamasıdır. Konum gizliliği, EXIF temizleme ve hassas tür koruması sayesinde doğa gözlemlerinizi daha güvenli biçimde kaydedebilirsiniz.
 
 ## Links
 
