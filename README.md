@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="assets/app-icon.png" width="144" alt="AviTrail app icon">
+![AviTrail](assets/avitrail-hero.png)
 
+<div align="center">
   # Bird Identifier: AviTrail
 
   **Identify birds by photo or sound, build your field collection, and climb local leagues.**
