@@ -1,11 +1,11 @@
-![AviTrail](assets/avitrail-hero.png)
+![AviTrail](assets/premium-cover.svg)
+
+<p align="center"><a href="https://apps.apple.com/app/id6793438480"><img src="https://raw.githubusercontent.com/ardaaozen/ardaaozen/01c1593/assets/badges/app-store-tr.png" alt="App Store'dan indir" height="54"></a></p>
 
 <div align="center">
   # Bird Identifier: AviTrail
 
   **Identify birds by photo or sound, build your field collection, and climb local leagues.**
-
-  [![Download on the App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/avitrail/id6793438480)
 
   <img alt="Platform" src="https://img.shields.io/badge/Platform-iPhone-111111?logo=apple&logoColor=white">
   <img alt="Identification" src="https://img.shields.io/badge/Identify-Photo%20%2B%20Sound-3A7D44">
